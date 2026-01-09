@@ -4,9 +4,9 @@ CAR RENTAL BOOKING
 
 HOW TO INSTALL 
 
-open the follder car_rental_booking_app\build\app\outputs
-then OPEN THE app-release.APK 
-and follow the insturction to install
+open the follder car_rental_booking_app\build\app\outputs or direct download the file app-release.APK 
+then install the apk in android moible
+
 
 HOW TO RUN
 open the app 
